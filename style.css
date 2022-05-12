@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    padding: 50px;
+    flex-wrap: wrap;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.post {
+    max-width: 250px;
+    margin: 10px;
+}
+
+.post img{
+    width: 250px;
+}
